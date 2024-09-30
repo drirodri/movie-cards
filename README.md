@@ -8,7 +8,7 @@ Projeto inicial utilizando React com TypeScript.
 <li>Componentização;</li>
 <li>Utilização de Props nos componentes;</li>
 <li>Tipagem dos Props;</li>
-<li>Recebimento de Objeto como Prop;</li>
+<li>Passando objetos como Prop;</li>
 <li>Renderização dinâmica dos componentes.</li>
 </ul>
 
