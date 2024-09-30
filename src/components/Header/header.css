@@ -1,0 +1,11 @@
+/* header {
+  border: solid thin;
+} */
+
+header {
+  height: 100px;
+}
+
+h1 {
+  text-align: center;
+}

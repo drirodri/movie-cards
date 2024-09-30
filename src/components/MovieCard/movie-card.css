@@ -1,0 +1,48 @@
+div.movie-card-div {
+  border-radius: 8px;
+  width: 300px;
+  height: 550px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.movie-card-div img {
+  margin: 0 0;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  width: 100%;
+  height: 200px !important;
+}
+
+.card-text {
+  padding: 10px;
+  height: 60%;
+}
+.card-text h4 {
+  font-size: 1.5rem;
+  padding-top: 0;
+  margin: 0 0;
+}
+.card-text h5 {
+  margin: 10px 0;
+  font-size: 1rem;
+  color: rgba(0, 0, 0, 0.631);
+}
+.card-text p {
+  padding-top: 30px;
+  text-align: justify;
+}
+.div-rating {
+  height: 10%;
+}
+
+hr {
+  background-color: aqua;
+
+  height: 1;
+  background: #333;
+  background-image: linear-gradient(to right, #ccc, #333, #ccc);
+  width: 100%;
+  margin: 0 0;
+}
